@@ -67,6 +67,10 @@ header {
     margin: 0;
 }
 
+.posting-footer-icons > img:hover {
+   opacity: 60%;
+}
+
 .likes {
     font-weight: 800;
     font-size: 13px;
